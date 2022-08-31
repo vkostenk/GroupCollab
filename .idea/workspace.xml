@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="24ae642e-0723-4883-8b49-c26649fc7a91" name="Changes" comment="firs try" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +34,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -45,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661965338558</updated>
       <workItem from="1661965340383" duration="140000" />
+      <workItem from="1661965694481" duration="445000" />
     </task>
     <task id="LOCAL-00001" summary="firs try">
       <created>1661965432163</created>
