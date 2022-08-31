@@ -12,6 +12,8 @@ public class Conflict {
         System.out.println("Hello people");
 
         System.out.println("Have a nice day ");
+        System.out.println("Conflict");
+        
 
     }
 }
